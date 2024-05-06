@@ -10,7 +10,7 @@ python = "^3.9"
 flatten-dict = "^0.4.2"
 boxsdk = {version = "^3.7.3", extras = ["jwt"]}
 backoff = "^2.2.1"
-orjson = "^3.9.14"
+orjson = "^3.10.3"
 
 [tool.poetry.dev-dependencies]
 black = "^23.10.1"
